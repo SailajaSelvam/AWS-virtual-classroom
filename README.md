@@ -48,9 +48,7 @@ A scalable, secure, and user-friendly cloud-based virtual classroom platform dev
 ---
 
 ##  System Architecture
-
-*(Insert a diagram or screenshot here)*  
-Example:  
+ 
 ![AWS Architecture](aws_architecture.png)
 
 ---
